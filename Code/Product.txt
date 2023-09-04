@@ -1,0 +1,22 @@
+01; Camera Raspberry Pi OV5647; Camera; 260000; 100; 0
+02; Camera USB UVC; Camera; 135000; 200; 0
+03; Raspberry Pi Zero W; Raspberry; 660000; 0; 0
+04; Arduino Due R3; Arduino; 690000; 200; 10
+05; Vo Nhom Raspberry Pi 4; Raspberry; 22000; 600; 0
+06; Vo Nhua Raspberry Pi 4; Raspberry; 45000; 400; 0
+07; Vo Mica Raspberry Pi 4; Raspberry; 59000; 200; 10
+08; Raspberry Pi 4 Model B - 1GB RAM; Raspberry; 100000; 80; 0
+15; Arduino Leonardo R3; Arduino; 190000; 200; 0
+16; Arduino MEGA-Wifi R3 ATmega2560; Arduino; 500000; 195; 10
+17; Arduino MEGA2560 R3 ATmega16u2; Arduino; 370000; 192; 0
+22; GPS Neo 6M; GPS; 120000; 280; 10
+21; GPS Neo M8N; GPS; 370000; 115; 0
+20; Arduino Pro Mini 5V 16Mhz; Aruduino; 115000; 167; 0
+19; Arduino Nano V3 ATmega328P; Arduino; 115000; 200; 20
+18; Arduino MEGA2560 R3 CH340; Arduino; 305000; 200; 0
+14; Arduino Leonardo Pro Micro; Arduino; 160000; 200; 0
+13; Arduino MEGA Protoshield V3; Arduino; 40000; 197; 10
+12; Arduino ESP8266 Wifi Shield; Arduino; 115000; 200; 0
+11; Arduino Due R3; Arduino; 69000; 200; 0
+10; Raspberry Pi 4 Model B - 8GB RAM; Raspberry; 100000; 80; 10
+09; Raspberry Pi 4 Model B - 4GB RAM; Raspberry; 200000; 200; 10
